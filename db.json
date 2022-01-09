@@ -1,0 +1,24 @@
+{
+  "movies": [ 
+      {
+        "id": 1,
+        "title": "Spider Man",
+        "img": "https://cdn.europosters.eu/image/750/posters/amazing-spider-man-wall-crawler-i12745.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Terminator",
+        "img": "https://cdn11.bigcommerce.com/s-yshlhd/images/stencil/1280x1280/products/23908/171027/terminator_4001__98355.1628444032.jpg?c=2?imbypass=on"
+      },
+      {
+        "id": 3,
+        "title": "Sicario",
+        "img": "https://www.bestmovieposters.co.uk/wp-content/uploads/2019/01/j5WmzZOM.jpeg"
+      },
+      {
+        "id": 4,
+        "title": "Rocky",
+        "img": "https://i5.walmartimages.com/asr/9b6b6edf-63e6-424d-aef9-1a0f41c018e6_1.331e3785f2d3d3f7f062fdc751b052f7.jpeg"
+      }
+   ]
+}
